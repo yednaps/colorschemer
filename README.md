@@ -1,1 +1,3 @@
-## script to scrape color schemes
+## colorschemer
+
+script to scrape color schemes
